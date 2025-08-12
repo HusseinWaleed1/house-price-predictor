@@ -28,10 +28,10 @@ This application predicts house prices in California using the **California Hous
 ---
 
 ### 👨‍💻 Author:
-- **Your Name Here**
+- **Hussein Waleed**
 - Data Science & Machine Learning Enthusiast
-- GitHub: [Your GitHub Link](https://github.com/)
-- LinkedIn: [Your LinkedIn Link](https://linkedin.com/)
+- GitHub:https://github.com/HusseinWaleed1
+- LinkedIn:https://www.linkedin.com/in/hussein-waleed-7821a2307/
 
 ---
 
